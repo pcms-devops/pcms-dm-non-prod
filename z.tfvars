@@ -25,7 +25,7 @@ external_basket_calc_app_enabled=1
 external_hht_app_enabled=1
 external_bo_audit_msg_app_enabled=1
 
-cdb_db_machine_type ="Standard_D2s_v3"
+cdb_db_machine_type ="Standard_B4ms"
 bo_app_machine_type = "Standard_A2_v2"
 etl_app_machine_type = "Standard_A2_v2"
 mrep_db_machine_type = "Standard_A2_v2"
