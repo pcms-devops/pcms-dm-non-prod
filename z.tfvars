@@ -29,7 +29,7 @@ cdb_db_machine_type ="Standard_B4ms"
 bo_app_machine_type = "Standard_A2_v2"
 etl_app_machine_type = "Standard_A2_v2"
 mrep_db_machine_type = "Standard_A2_v2"
-
+external_endless_aisle_app_machine_type = "Standard_B2ms"
 
 lb_server_image_regex = "^load-balancer-v\\d{14}" 
 db_server_image_regex = "^db2-105-wse-v\\d{14}"
