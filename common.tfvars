@@ -16,7 +16,6 @@ location = "centralus"
 
 image_resource_group_name = "pcms-image-builder"
 
-vmsize = "Standard_B1s"
 
 default_external_app_machine_type = "Standard_B1s"
 
