@@ -46,7 +46,7 @@ project_resource_group_name = "pcms-dm-non-prod-mgmt"
 
 #primary_zone="f"
 
-git_branch="pcms-manual-role-override"
+git_branch="master"
 
 region="us-central1" #europe-west2 (london) / us-west1 / etc - us-central1 is cheapest! 
 
