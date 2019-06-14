@@ -16,9 +16,6 @@ location = "centralus"
 
 image_resource_group_name = "pcms-image-builder"
 
-
-default_external_app_machine_type = "Standard_B1s"
-
 accelerated_networking = "false"
 
 project_resource_group_name = "pcms-dm-non-prod-mgmt"
