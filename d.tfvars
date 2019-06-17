@@ -1,6 +1,6 @@
 software_host="pcmsdmnonprod"
-ip_cidr_range="10.2.9.0/24"
-environment_name="c"
+ip_cidr_range="10.2.10.0/24"
+environment_name="d"
 customer_ip_cidr_ranges = ["213.175.224.0/19","10.205.8.0/22","109.158.15.76/32"]
 private_ip_address_allocation = "Dynamic"
 
