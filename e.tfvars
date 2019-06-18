@@ -53,3 +53,12 @@ vcs_beanstore_image_regex = "^tomcat-7-v\\d{14}"
 software_path="releases/product3.123.0-Lbuild.34"
 app_dds_server_image_regex = "^tomcat-7-v\\d{14}"
 etl_app_server_image_regex = "^tomcat-7-v\\d{14}"
+
+dds_app_enabled=1
+ddshelper_app_enabled=1
+dfm_delivery_app_enabled=1
+dfm_packaging_app_enabled=1
+dfm_processor_app_enabled=1
+dfm_receive_validate_app_enabled=1
+dfm_targeting_app_enabled=1
+cust_db_enabled=1
