@@ -3,6 +3,7 @@ ip_cidr_range="10.2.10.0/24"
 environment_name="d"
 customer_ip_cidr_ranges = ["213.175.224.0/19","10.205.8.0/22","109.158.15.76/32"]
 private_ip_address_allocation = "Dynamic"
+git_branch="azure-montior"
 
 lb_enabled=1
 mq_enabled=1
